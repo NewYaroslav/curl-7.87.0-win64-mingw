@@ -1,0 +1,1 @@
+# curl-7.87.0-win64-mingw
